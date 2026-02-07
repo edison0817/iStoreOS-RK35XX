@@ -82,3 +82,6 @@ git clone --depth=1 -b main https://github.com/xiaomeng9597/istoreos-settings pa
 
 # 定时限速插件
 git clone --depth=1 https://github.com/sirpdboy/luci-app-eqosplus package/luci-app-eqosplus
+
+# Lucky 插件（动态域名ddns-go服务，tcp/udp转发，http/https反向代理）
+git clone --depth=1 https://github.com/sirpdboy/luci-app-lucky.git package/lucky
