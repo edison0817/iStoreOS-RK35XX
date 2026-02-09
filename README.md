@@ -1,4 +1,4 @@
-# iStore OS 固件 | 定制的麻烦自行 fork 修改
+# iStore OS Panther-X2 个人定制固件 | 有其他需求的麻烦自行 fork 修改
 
 [![iStore使用文档](https://img.shields.io/badge/使用文档-iStore%20OS-brightgreen?style=flat-square)](https://doc.linkease.com/zh/guide/istoreos) [![最新固件下载](https://img.shields.io/github/v/release/xiaomeng9597/Actions-iStoreOS-RK35XX?style=flat-square&label=最新固件下载)](../../releases/latest)
 
@@ -75,12 +75,5 @@
 - [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
 - [draco-china/istoreos-actions](https://github.com/draco-china/istoreos-actions)
+- [xiaomeng9597/iStoreOS-RK35XX](https://github.com/xiaomeng9597/iStoreOS-RK35XX)
 
-## 捐赠
-- 如果你觉得此系统好用的话，请我喝一杯82年的凉白开吧，感谢！
-
--支付宝-
-# <img src="https://raw.githubusercontent.com/xiaomeng9597/webfiles/refs/heads/main/zfb.jpg" alt="支付宝收款码" width="200" />
-
--微信-
-# <img src="https://raw.githubusercontent.com/xiaomeng9597/webfiles/refs/heads/main/weixin.jpg" alt="微信收款码" width="200" />
