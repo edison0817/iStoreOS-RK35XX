@@ -46,9 +46,9 @@ cp -f $GITHUB_WORKSPACE/configfiles/dts/rk3568-mrkaio-m68s-plus.dts target/linux
 # sed -i "/.*uhttpd.*/d" .config
 # sed -i '/.*\/etc\/init.d.*/d' package/network/services/uhttpd/Makefile
 # sed -i '/.*.\/files\/uhttpd.init.*/d' package/network/services/uhttpd/Makefile
-sed -i "s/:80/:81/g" package/network/services/uhttpd/files/uhttpd.config
-sed -i "s/:443/:4443/g" package/network/services/uhttpd/files/uhttpd.config
-cp -a $GITHUB_WORKSPACE/configfiles/etc/* package/base-files/files/etc/
+# sed -i "s/:80/:81/g" package/network/services/uhttpd/files/uhttpd.config
+# sed -i "s/:443/:4443/g" package/network/services/uhttpd/files/uhttpd.config
+# cp -a $GITHUB_WORKSPACE/configfiles/etc/* package/base-files/files/etc/
 # ls package/base-files/files/etc/
 
 
